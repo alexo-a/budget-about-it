@@ -45,6 +45,6 @@
     ],
     "theme_color": "#01579b",
     "background_color": "#ffffff",
-    "start_url": "",
-    "display": ""
+    "start_url": "https://still-peak-99304.herokuapp.com/",
+    "display": "standalone"
 }
